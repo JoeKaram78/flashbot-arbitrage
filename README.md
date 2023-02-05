@@ -2,7 +2,7 @@
 ### About
 An arbitrage bot implementation that leverages flash swaps to arbitrage between Uniswap V2 AMMs & related forks (Ethereum, Binance Smart Chain, Avalanche).
 
-![alt text](https://github.com/JoeKaram78/flshbot-arbitrage/blob/main/flashbot.png?raw=true)
+![alt text](https://github.com/JoeKaram78/flashbot-arbitrage/blob/main/flashbot.png?raw=true)
 
 There are a lot of AMMs on Ethereum and other blockchains that support EVM. Many of these AMMs are just forks of Uniswap V2 or share the same interface. A list of these AMMs:
 
